@@ -49,6 +49,7 @@ master:
   manageiq-ui-classic:
   manageiq-ui-service:
   manageiq-v2v:
+  manageiq-v2v-conversion_host-build:
   manageiq_docs:
   ui-components:
 ivanchuk:
@@ -104,6 +105,7 @@ ivanchuk:
   manageiq-ui-classic:
   manageiq-ui-service:
   manageiq-v2v:
+  manageiq-v2v-conversion_host-build:
   manageiq_docs:
   ui-components:
     has_real_releases: true
